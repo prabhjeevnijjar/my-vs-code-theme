@@ -1,0 +1,52 @@
+{
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "editor.formatOnSave": true,
+
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html"
+  },
+  "editor.fontSize": 16,
+  
+    "workbench.colorCustomizations": {
+      "editor.background": "#310d3117"
+    },
+  
+  "editor.fontLigatures": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.inlineSuggest.enabled": true,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "vs-nomo-dark",
+  "window.commandCenter": true,
+  "editor.accessibilitySupport": "off",
+  "workbench.colorTheme": "Deepdark Material Theme | Full Black Version"
+}
